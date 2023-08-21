@@ -1,0 +1,16 @@
+#contentinfo p {
+    line-height: 20px;
+    margin: 30px;
+    padding-bottom: 20px;
+    text-align: justify;
+    width: 140px;
+ }
+
+ label {
+    display: inline-block;
+    width: 180px;
+    text-align: right;
+  }
+
+  
+  
